@@ -1,5 +1,5 @@
 source https://api.nuget.org/v3/index.json
 
 nuget FSharp.Core
-nuget Microsoft.Azure.WebJobs.Extensions.ServiceBus 4.1.0
-nuget Microsoft.NET.Sdk.Functions 3.0.3
+nuget Microsoft.Azure.WebJobs.Extensions.ServiceBus
+nuget Microsoft.NET.Sdk.Functions
